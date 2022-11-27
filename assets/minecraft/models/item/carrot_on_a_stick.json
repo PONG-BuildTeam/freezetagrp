@@ -4,12 +4,12 @@
 		"layer0": "item/carrot_on_a_stick"
 	},
 	"overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "item/music_disc_otherside"},
-		{ "predicate": {"custom_model_data": 2}, "model": "item/music_disc_ward"},
-		{ "predicate": {"custom_model_data": 3}, "model": "item/music_disc_strad"},
-		{ "predicate": {"custom_model_data": 4}, "model": "item/music_disc_mellohi"},
-		{ "predicate": {"custom_model_data": 5}, "model": "item/music_disc_mall"},
-		{ "predicate": {"custom_model_data": 6}, "model": "item/blaze_rod"},
-		{ "predicate": {"custom_model_data": 7}, "model": "item/music_disc_wait"}
+		{ "predicate": {"custom_model_data": 1}, "model": "freeze:powerups/invisibility"},
+		{ "predicate": {"custom_model_data": 2}, "model": "freeze:powerups/speed_boost"},
+		{ "predicate": {"custom_model_data": 3}, "model": "freeze:powerups/glow_point"},
+		{ "predicate": {"custom_model_data": 4}, "model": "freeze:powerups/siberian_exsnowsion"},
+		{ "predicate": {"custom_model_data": 5}, "model": "freeze:powerups/decoy_snowman"},
+		{ "predicate": {"custom_model_data": 6}, "model": "freeze:powerups/fire_rod"},
+		{ "predicate": {"custom_model_data": 7}, "model": "freeze:powerups/phoenix_ignition"}
 	]
 }
