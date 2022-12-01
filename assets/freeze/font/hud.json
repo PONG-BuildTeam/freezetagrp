@@ -3,7 +3,7 @@
       {
           "type": "bitmap",
           "file": "freeze:font/hud.png",
-          "ascent": 132,
+          "ascent": 134,
           "height": 160,
           "chars": [
               "\uE000"
