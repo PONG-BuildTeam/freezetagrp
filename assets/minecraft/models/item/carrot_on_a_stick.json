@@ -10,6 +10,7 @@
 		{ "predicate": {"custom_model_data": 4}, "model": "freeze:powerups/siberian_exsnowsion"},
 		{ "predicate": {"custom_model_data": 5}, "model": "freeze:powerups/decoy_snowman"},
 		{ "predicate": {"custom_model_data": 6}, "model": "freeze:powerups/fire_rod"},
-		{ "predicate": {"custom_model_data": 7}, "model": "freeze:powerups/phoenix_ignition"}
+		{ "predicate": {"custom_model_data": 7}, "model": "freeze:powerups/phoenix_ignition"},
+		{ "predicate": {"custom_model_data": 8}, "model": "minecraft:item/pufferfish"}
 	]
 }
