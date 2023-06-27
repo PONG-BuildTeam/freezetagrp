@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "freeze:powerups/arrow"
+    "layer0": "freeze:item/armor/blue_helmet"
   }
 }

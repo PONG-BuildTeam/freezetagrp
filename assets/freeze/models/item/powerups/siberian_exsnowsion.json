@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "freeze:powerups/whoaball"
+    "layer0": "freeze:item/powerups/siberian_exsnowsion"
   }
 }

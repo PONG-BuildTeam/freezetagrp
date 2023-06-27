@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "freeze:powerups/decoy_snowman"
+    "layer0": "freeze:item/powerups/glow_point"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "freeze:armor/red_chestplate"
+    "layer0": "freeze:item/powerups/decoy_snowman"
   }
 }

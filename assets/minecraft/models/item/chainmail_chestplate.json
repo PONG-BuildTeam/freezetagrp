@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/chainmail_chestplate"
   },
   "overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "freeze:armor/blue_chestplate" }
+		{ "predicate": {"custom_model_data": 1}, "model": "freeze:item/armor/blue_chestplate" }
 	]
 }

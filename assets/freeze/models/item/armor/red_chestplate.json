@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "freeze:powerups/speed_boost"
+    "layer0": "freeze:item/armor/red_chestplate"
   }
 }

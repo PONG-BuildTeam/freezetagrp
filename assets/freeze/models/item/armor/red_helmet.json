@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "freeze:armor/red_boots"
+    "layer0": "freeze:item/armor/red_helmet"
   }
 }

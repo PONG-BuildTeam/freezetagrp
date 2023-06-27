@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "freeze:powerups/invisibility"
+    "layer0": "freeze:item/powerups/speed_boost"
   }
 }

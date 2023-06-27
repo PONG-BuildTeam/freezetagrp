@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/arrow"
   },
   "overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "freeze:powerups/arrow"}
+		{ "predicate": {"custom_model_data": 1}, "model": "freeze:item/powerups/arrow"}
 	]
 }

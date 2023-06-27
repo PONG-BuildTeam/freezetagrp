@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "freeze:armor/blue_boots"
+    "layer0": "freeze:item/powerups/arrow"
   }
 }

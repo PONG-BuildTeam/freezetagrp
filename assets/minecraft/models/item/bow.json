@@ -50,14 +50,14 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "freeze:powerups/snowy_sniper/bow"
+            "model": "freeze:item/powerups/snowy_sniper/bow"
         },
         {
             "predicate": {
                 "custom_model_data": 1,
                 "pulling": 1
             },
-            "model": "freeze:powerups/snowy_sniper/pulling_0"
+            "model": "freeze:item/powerups/snowy_sniper/pulling_0"
         },
         {
             "predicate": {
@@ -65,7 +65,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "freeze:powerups/snowy_sniper/pulling_1"
+            "model": "freeze:item/powerups/snowy_sniper/pulling_1"
         },
         {
             "predicate": {
@@ -73,7 +73,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "freeze:powerups/snowy_sniper/pulling_2"
+            "model": "freeze:item/powerups/snowy_sniper/pulling_2"
         }
     ]
 }

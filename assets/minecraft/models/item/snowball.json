@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/snowball"
   },
   "overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "freeze:powerups/whoaball"}
+		{ "predicate": {"custom_model_data": 1}, "model": "freeze:item/powerups/whoaball"}
 	]
 }
