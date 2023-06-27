@@ -1,6 +1,10 @@
 {
   "pack": {
+<<<<<<< HEAD
     "pack_format": 15,
+=======
+    "pack_format": 12,
+>>>>>>> 407ff6c532a240d1dcee9d333214fe53e7d44519
     "description": "\u00A76\u00A7oResource pack for: \u00A7b\u00A7lFrozen Crag"
   }
 }
